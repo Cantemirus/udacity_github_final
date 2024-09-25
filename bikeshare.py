@@ -190,7 +190,7 @@ def user_stats(df, city):
     print('-'*40)
 
 def individual_data(df):
-    """Displays individual trip data upon request."""
+    """Displays individual trip data upon user request."""
     start_data = 0
     end_data = 5
     df_length = len(df.index)
