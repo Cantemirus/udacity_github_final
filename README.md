@@ -7,7 +7,7 @@ This project was created by Liviu Marian Albu on 25th of September, 2024.
 Post your work on GitHub
 
 ### Description
-This project is with reference to Explore_US_Bikeshare_Data
+This project is with reference to Explore_US_Bikeshare_Data.
 
 ### Files used
 bikeshare.py, chicago.csv, new_york_city.csv, washington.csv
